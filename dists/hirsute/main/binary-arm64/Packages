@@ -1,0 +1,27 @@
+Package: open-vm-tools
+Version: 2:11.2.5-2ubuntu1
+Architecture: arm64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 2529
+Depends: libc6 (>= 2.33), libdrm2 (>= 2.4.3), libfuse2 (>= 2.6), libglib2.0-0 (>= 2.31.8), libmspack0 (>= 0.4), libssl1.1 (>= 1.1.0), libtirpc3 (>= 1.0.2), libudev1 (>= 183), libxml2 (>= 2.7.4), libxmlsec1 (>= 1.2.31), libxmlsec1-openssl (>= 1.2.31), pciutils, iproute2, lsb-release, net-tools
+Recommends: ethtool, zerofree, fuse
+Suggests: open-vm-tools-desktop, cloud-init
+Breaks: open-vm-tools-desktop (<< 2:10.3.5-2~)
+Replaces: open-vm-tools-desktop (<< 2:10.0.7-3227872-2~)
+Homepage: https://github.com/vmware/open-vm-tools
+Priority: optional
+Section: admin
+Filename: pool/main/o/open-vm-tools/open-vm-tools_11.2.5-2ubuntu1_arm64.deb
+Size: 585408
+SHA256: d34ce105709505d25b7a3964d4383deeb0443af57ea8c703002b7c5744e51052
+SHA1: a51e426e508103c3241db8a581beacd589fecd8f
+MD5sum: a5bf1ed58771c1fe643606dc0e0654b1
+Description: Open VMware Tools for virtual machines hosted on VMware (CLI)
+ The Open Virtual Machine Tools (open-vm-tools) project is an open source
+ implementation of VMware Tools. It is a suite of virtualization utilities and
+ drivers to improve the functionality, user experience and administration of
+ VMware virtual machines.
+ .
+ This package contains only the core user-space programs and libraries.
+Original-Maintainer: Bernd Zeimetz <bzed@debian.org>
+

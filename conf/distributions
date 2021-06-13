@@ -1,0 +1,6 @@
+Origin: Daniel Harenkamp
+Label: open-vm-tools
+Codename: hirsute
+Architectures: arm64 source
+Components: main
+Description: Description of repository you are creating

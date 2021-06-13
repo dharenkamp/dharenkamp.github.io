@@ -1,0 +1,28 @@
+Origin: Daniel Harenkamp
+Label: open-vm-tools
+Codename: hirsute
+Date: Sun, 13 Jun 2021 16:33:20 UTC
+Architectures: arm64
+Components: main
+Description: Description of repository you are creating
+MD5Sum:
+ 7324c8b532ba474ca8f970692f843e97 1433 main/binary-arm64/Packages
+ f980b36f5539dbe4811d819b67a92fb7 814 main/binary-arm64/Packages.gz
+ 893aa1307efb8a5adb8c2d870c49f1e6 138 main/binary-arm64/Release
+ 020401d304d050651fe87ec2e353398b 2029 main/source/Sources
+ 5419d7d232518a05f2ed741b2d71b775 900 main/source/Sources.gz
+ b0b3ff4409851afe1d702c19b9435a4b 139 main/source/Release
+SHA1:
+ 577d0dd698da9f7a3163364e15d6f699cca94478 1433 main/binary-arm64/Packages
+ cb69e69de75973d4d652141395d47ed93c16eeb3 814 main/binary-arm64/Packages.gz
+ 2e3f46dace19e3e590f7d808502c3c47446ebaf4 138 main/binary-arm64/Release
+ 1c5238b0bc9a454bbd84d1314b75abbd0432c1fd 2029 main/source/Sources
+ 928d9e4efb7a90d2cff91bad1bfe09e5ef81a493 900 main/source/Sources.gz
+ 1f7fd98554003a264bf7c688d3787501ff14bd25 139 main/source/Release
+SHA256:
+ 98df61aedd26b6e5234d5f7e4bfab941a5b31a4523522942c1b40ba670ac06af 1433 main/binary-arm64/Packages
+ 2bd9e9563a84b0fd3aa6d76b2f7b3515e04c5303865877ec03ade6b668a83172 814 main/binary-arm64/Packages.gz
+ 92a9c4bcd96ec426a28f19380a011ab2a0ec14accaedda692673cf8ba70bcf6a 138 main/binary-arm64/Release
+ 35bdefe94a2aa19b65a1569c65f68cd1a0749d46692cd0f910954c465b96d1ae 2029 main/source/Sources
+ d60ea49f5e2412e92bd516f51050f19a43f788472a5e278e2cd86f8daa42b856 900 main/source/Sources.gz
+ 8eb74e9fe43155623ad4b0ed4a31a4e667d50b4df3f155690c48336a8cd2301d 139 main/source/Release
