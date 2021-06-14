@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: Daniel Harenkamp
 Label: open-vm-tools
 Codename: hirsute
@@ -26,3 +29,17 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  8eb74e9fe43155623ad4b0ed4a31a4e667d50b4df3f155690c48336a8cd2301d 139 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEOwFIpK3frBl/nvWChG5P8BijU/oFAmDHoj8ACgkQhG5P8Bij
+U/poSwv+MGfiUOynCmoQbuu249aTFqVFrRh2mDpGiZ/GjhtFNJ4zONmh2uyCF3GM
+XX5DoV7KxPVx3iLH7xDaoIAgPGKNj2zSHanQuHpTHc3kFkj9YTKd2TuCZMrx02R8
+e5CoYy3ndpPydgVSGIqdeqTyl1gfeT2YVrKjl/KnRui3jSG8igNQjsWz1TBnYk1d
+40BR7gUXlphHclJM0POqB5faxtXrjs6ZD846TrWApAWtCTeuqS3lLyUktci1n0zi
+25USAGWxL+Ye3szm0TMsBqbvaSZz+L/G58bZ6YtK9hdGFrjmjeTgS7kmDlkTDncT
+9omr++bpHP+iH0qHGb1kzuWozLN6jEQYOyUoBOrLWIFP1DD6KXJW6lxoIlvK7CFc
+7vSJc5QJMw2nNVi7JDDqFk0J9YEHkO0AoP3ESaaxf8u11zTH6p5oYp3U6uuohggK
+JcBIweZ0LzUEgmed6CshRRVhBjo5GVslJ0R2spO6PgEhtGdzSvFUGDLWbSaWydyL
+Yw2hfszT
+=WHjz
+-----END PGP SIGNATURE-----
