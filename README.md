@@ -1,7 +1,7 @@
 # Repositories for self created deb packages
 
 This is a test repository for open-vm-tools for arm systems like Raspberry Pi.
-All packages are compiled on Raspi 4b 8GB.
+All packages are compiled on Raspi 4 8GB.
 Would be nice if someone can test it on other platforms....
 
 ## Packages
