@@ -1,28 +1,28 @@
 Origin: Daniel Harenkamp
-Label: open-vm-tools
+Label: open-vm-tools for ubunut hirsute
 Codename: hirsute
-Date: Mon, 14 Jun 2021 18:38:54 UTC
+Date: Mon, 14 Jun 2021 18:57:52 UTC
 Architectures: arm64
 Components: main
 Description: Description of repository you are creating
 MD5Sum:
  05fa79232890185f5da441cdcf60ba6a 5474 main/binary-arm64/Packages
  e49cdf2b9d19caf7c44de7ab8959c92c 1664 main/binary-arm64/Packages.gz
- 893aa1307efb8a5adb8c2d870c49f1e6 138 main/binary-arm64/Release
+ 98d84640201f1ff25ce2b56a603a6709 157 main/binary-arm64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
- b0b3ff4409851afe1d702c19b9435a4b 139 main/source/Release
+ c46926891d662e4dc3e8a2183b82ab4c 158 main/source/Release
 SHA1:
  ea2bfd8530ba9388575e5e55ba54d53d19e3d5e9 5474 main/binary-arm64/Packages
  a339c620c428e1a1d72443be608595c2bb106389 1664 main/binary-arm64/Packages.gz
- 2e3f46dace19e3e590f7d808502c3c47446ebaf4 138 main/binary-arm64/Release
+ b43a80bf4a1f6cd61eac7445223851fb4268600b 157 main/binary-arm64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
- 1f7fd98554003a264bf7c688d3787501ff14bd25 139 main/source/Release
+ 6731e8abcc3fa340499bbe41c3670ba519d560b8 158 main/source/Release
 SHA256:
  cae24c0f249b998bb149b7d8eafdb11124985fa5584a42284313cf45c250c60d 5474 main/binary-arm64/Packages
  51953ab5ab60ff980de30906cf433483dea4688f1d07c2e432b7d53bd075060f 1664 main/binary-arm64/Packages.gz
- 92a9c4bcd96ec426a28f19380a011ab2a0ec14accaedda692673cf8ba70bcf6a 138 main/binary-arm64/Release
+ afd28423ac057d67ff43714a1ed1b59bbf45413fe40f36912d7c87745e068409 157 main/binary-arm64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
- 8eb74e9fe43155623ad4b0ed4a31a4e667d50b4df3f155690c48336a8cd2301d 139 main/source/Release
+ 85f7d5756a141c8f9e7ad3bf2c675fff68caa7f074776dd53bf3769d2ba297b6 158 main/source/Release

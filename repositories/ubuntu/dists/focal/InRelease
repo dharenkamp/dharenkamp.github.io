@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Daniel Harenkamp
+Label: open-vm-tools for ubuntu focal
+Codename: focal
+Date: Mon, 14 Jun 2021 18:58:15 UTC
+Architectures: arm64
+Components: main
+Description: Description of repository you are creating
+MD5Sum:
+ 0b440ca68611e69726da46bb95d835c6 5571 main/binary-arm64/Packages
+ da621c96498b8b9699be7582fa23cb97 1654 main/binary-arm64/Packages.gz
+ f41604c9f897bef5c908cf80d4a725dd 155 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ fb2c607fa9af3f9b59399a4e931dbaae 156 main/source/Release
+SHA1:
+ 0aeaef5dbd388ec95e83a4c7ead1eff34f915692 5571 main/binary-arm64/Packages
+ a0f8f520e9c10a83ba413e0ab3ca8d5625882561 1654 main/binary-arm64/Packages.gz
+ 262e9909001bde221dd86031c106d57ecdec69d5 155 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ dffda8b9f9717f4f6b4676ae2cc05f7cf908a232 156 main/source/Release
+SHA256:
+ 4a667ab07d1604d47ad61cb593c3799cb6736aa2050dc5424650f2b2afbf9aa8 5571 main/binary-arm64/Packages
+ 9e32da69b2453580c32a0ae8766ed456a640795b7bbf60260f7d2cf1fee7eabb 1654 main/binary-arm64/Packages.gz
+ 3bd0aee56ea9d737eb5f6606944496ba5d57afdd91e81b5cf94eb9d9aa3b849f 155 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ e4d66537481f1af650ebf5776b2537fe631ea1ecc7ab908e29d70c5397495a5e 156 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEOwFIpK3frBl/nvWChG5P8BijU/oFAmDHpsgACgkQhG5P8Bij
+U/qbZgwAkRGmq7Ani1QDCm5KcJ18GMhhxjOk+cE1kdCy7DOmEa1GbOwyePa1levE
+j24VuwGpIJQ+krfB55vyP6DkjLiEtbTUYTBzlkvvQiphwms33zi3paFks00GjJtC
+wH9Y7JqDN11v2NJyVTUFyTmvip3WmlIREEqzdXiCkMMRZSuBasI2XO15akL6bmCe
+73F8p7Apq7rX1i79pYGinRG8iQz9hAjCZ9/m/7XvnuZ4SgZpWtP4h/OeKhZ/2R8r
+mFzIve0UdjwZWxQoex5plTi1kxklBs58HcUv2NcWHl8/yFcq3GkRWnbb9TmKbMht
+oVadn4oj15rk9fLus94KXB2FtHxXYnOOLsvbP5R85eNOuR4dvv6BkpKMxZbgBxbf
+5nvhUNYhDRpXNLb9JtLe2VaYeacyo1DvnwjNW1wr+Dz3z6ncbeF82gUTFgbHYhFN
+WHVfGuPHcOdbmpVw8T1CE4abz98J6JhEnLfAa8DdBnzeleNYQw3tu6dekai/OlR9
+BgdXbKeb
+=o0zw
+-----END PGP SIGNATURE-----

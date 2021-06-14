@@ -1,5 +1,5 @@
 Component: main
 Origin: Daniel Harenkamp
-Label: open-vm-tools for ubunut hirsute
-Architecture: source
+Label: open-vm-tools for ubuntu focal
+Architecture: arm64
 Description: Description of repository you are creating
